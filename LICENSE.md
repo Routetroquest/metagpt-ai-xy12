@@ -1,4 +1,4 @@
-# 
+# Professional MetaGPT extensions. Featuring version-control and customizable-ui — optimized for maximum performance and efficiency.
 
 
 
